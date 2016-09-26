@@ -1,0 +1,16 @@
+@import "../css/font-awesome.min.css";
+@import "../css/app.css";
+/*@import 'settings';*/
+@import '../css/foundation.css';
+
+body{
+	min-height:100%;
+	overflow-x:hidden;
+	font-size:100%;
+	height: 100px;
+	width: 100%;
+	background: $primary;
+}
+header{
+background: $light-gray;
+}

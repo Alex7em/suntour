@@ -1,0 +1,9 @@
+@import url(../css/foundation.css);
+@import url(../css/font-awesome.css);
+@import url(../css/app.css);
+
+body {
+  min-height: 100%;
+  font-size: 100%;
+  background: #fff;
+}
